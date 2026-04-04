@@ -59,7 +59,7 @@ me.say_hi()
 |:---:|:---:|:---:|
 | i-NEW GEN Award 2025 (National) | FABLAB Walking Robot Challenge | VoltX Challenge 2025 |
 | Arduino IoT "Innovate for Water Security" | Arduino Explore IoT Hackathon 2024 | Innovedex Robotics Competition 2024 |
-| Super AI Engineer Season 5 | | |
+| | | |
 
 </div>
 
