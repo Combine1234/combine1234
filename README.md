@@ -94,6 +94,9 @@ Programming:
 
 ## 🚀 Notable Projects
 
+### 🔬 Dooduangsassss — Online Astrology Bot *(Super AI Engineer Season 5)*
+> Image Classification service using MobileNetV3-Large + Flask API, deployed on LINE Messaging API Bot.
+
 ### 🫁 AI CT-Scan / X-Ray Analyzer *(i-NEW GEN Award 2025 — Gold)*
 > AI program for lung cancer screening using publicly available datasets (IQ-OTH/NCCD). Submitted to NRCT — 1,549 competing teams.
 
@@ -102,9 +105,6 @@ Programming:
 
 ### 🦿 Hexapod Walking Robot *(FABLAB Challenge — 1st Runner-Up)*
 > 18-DOF hexapod robot controlled by Raspberry Pi Pico W + PCA9685, driving 18 MG90S micro servos.
-
-### 🔬 Dooduangsassss — Online Astrology Bot *(Super AI Engineer Season 5)*
-> Image Classification service using MobileNetV3-Large + Flask API, deployed on LINE Messaging API Bot.
 
 ### 🗑️ Zero Waste BCG Smart Bin *(Arduino Explore IoT Hackathon 2024 — 1st Runner-Up)*
 > Automated waste sorter using Linear Motor + Inductive Sensor + Arduino MKR WiFi 1010, with live Arduino Cloud dashboard.
