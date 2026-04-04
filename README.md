@@ -28,6 +28,9 @@ class Thanawat_Sukamporn:
         self.nickname    = "Fronk 🐸"
         self.university  = "Kasetsart University 🌾"
         self.faculty     = "Computer Engineering"
+
+         # Important
+        self.SuperAIEngineer_Status    = "Super Ai Engineer SS5 : Track Innovator @Kasetsart University"
         self.location    = "Pathum Thani, Thailand 🇹🇭"
         self.languages   = ["th_TH 🇹🇭", "en_US 🇬🇧"]
 
