@@ -25,8 +25,8 @@ class Thanawat_Sukamporn:
 
     def __init__(self):
         self.name        = "Thanawat Sukamporn (ธนวัฒน์ สุขอัมพร)"
-        self.nickname    = "Fronk 🐸"
-        self.university  = "Kasetsart University 🌾"
+        self.nickname    = "Fronk"
+        self.university  = "Kasetsart University"
         self.faculty     = "Computer Engineering"
 
          # Important
