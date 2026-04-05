@@ -1,3 +1,25 @@
+
+<style>
+  .section { margin-bottom: 2rem; padding: 1rem; border: 1px solid var(--color-border-tertiary); border-radius: var(--border-radius-lg); background: var(--color-background-secondary); }
+  .label { font-size: 12px; color: var(--color-text-secondary); margin-bottom: 0.75rem; font-family: var(--font-mono); }
+  .preview { background: #0d1117; border-radius: 8px; padding: 1.25rem; }
+  .ascii { font-family: var(--font-mono); font-size: 9px; line-height: 1.2; white-space: pre; color: #e6edf3; overflow-x: auto; }
+  .gradient-text { font-family: var(--font-mono); font-size: 28px; font-weight: 700; background: linear-gradient(90deg, #ff6b9d, #c44dff, #4d9fff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; letter-spacing: 2px; }
+  .typing-text { font-family: var(--font-mono); font-size: 18px; color: #58a6ff; border-right: 2px solid #58a6ff; white-space: nowrap; overflow: hidden; width: fit-content; animation: typing 3s steps(20) infinite alternate, blink 0.7s step-end infinite; }
+  @keyframes typing { from { width: 0 } to { width: 100% } }
+  @keyframes blink { 50% { border-color: transparent } }
+  .badges { display: flex; flex-wrap: wrap; gap: 6px; }
+  .badge { padding: 4px 10px; border-radius: 4px; font-size: 11px; font-family: var(--font-mono); font-weight: 600; }
+  .b-blue { background: #1f6feb; color: #cae8ff; }
+  .b-green { background: #196c2e; color: #56d364; }
+  .b-purple { background: #6e40c9; color: #d2a8ff; }
+  .b-orange { background: #9e6a03; color: #f8e3a1; }
+  .name-gradient { font-family: var(--font-mono); font-size: 22px; font-weight: 700; background: linear-gradient(135deg, #56d364, #58a6ff, #d2a8ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin-bottom: 6px; }
+  .sub { color: #8b949e; font-family: var(--font-mono); font-size: 12px; }
+  .choose-btn { margin-top: 10px; padding: 5px 14px; border-radius: 6px; border: 1px solid #30363d; background: #21262d; color: #58a6ff; font-size: 12px; cursor: pointer; font-family: var(--font-mono); }
+  .choose-btn:hover { background: #30363d; }
+</style>
+  
   <div class="section">
     <div class="label">Style 1 — Gradient Name Banner</div>
     <div class="preview">
