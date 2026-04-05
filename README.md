@@ -35,9 +35,8 @@ class Thanawat_Sukamporn:
         self.languages   = ["th_TH 🇹🇭", "en_US 🇬🇧"]
 
         self.focus_areas = [
-            "🤖  AI / Machine Learning",
-            "🦾  Robotics & IoT",
-            "☁️   Cloud Architecture (AWS)",
+            "🤖  AI / Machine Learning / Image Processing",
+            "🦾  Robotics & IoT & Mechatronics Automation",
             "🔒  Cybersecurity & CTF",
         ]
 
