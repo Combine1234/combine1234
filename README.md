@@ -1,16 +1,11 @@
-<div align="center">
-
-```
-████████╗██╗  ██╗ █████╗ ███╗   ██╗ █████╗ ██╗    ██╗ █████╗ ████████╗
-╚══██╔══╝██║  ██║██╔══██╗████╗  ██║██╔══██╗██║    ██║██╔══██╗╚══██╔══╝
-   ██║   ███████║███████║██╔██╗ ██║███████║██║ █╗ ██║███████║   ██║   
-   ██║   ██╔══██║██╔══██║██║╚██╗██║██╔══██║██║███╗██║██╔══██║   ██║   
-   ██║   ██║  ██║██║  ██║██║ ╚████║██║  ██║╚███╔███╔╝██║  ██║   ██║   
-   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝   ╚═╝   
-```
-
-</div>
-
+  <div class="section">
+    <div class="label">Style 1 — Gradient Name Banner</div>
+    <div class="preview">
+      <div class="gradient-text">THANAWAT SUKAMPORN</div>
+      <div style="color:#8b949e; font-family:monospace; font-size:13px; margin-top:6px;">Computer Engineering · AI/ML Enthusiast · KU</div>
+    </div>
+  </div>
+   
 ```python
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
