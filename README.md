@@ -1,4 +1,6 @@
 
+
+<div style="padding: 1rem 0;">
 <style>
   .section { margin-bottom: 2rem; padding: 1rem; border: 1px solid var(--color-border-tertiary); border-radius: var(--border-radius-lg); background: var(--color-background-secondary); }
   .label { font-size: 12px; color: var(--color-text-secondary); margin-bottom: 0.75rem; font-family: var(--font-mono); }
@@ -27,7 +29,8 @@
       <div style="color:#8b949e; font-family:monospace; font-size:13px; margin-top:6px;">Computer Engineering · AI/ML Enthusiast · KU</div>
     </div>
   </div>
-   
+</div>
+
 ```python
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
