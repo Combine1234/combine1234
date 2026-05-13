@@ -61,8 +61,9 @@ me.say_hi()
 
 | 🥇 Gold | 🥈 Silver | 🥉 Bronze |
 |:---:|:---:|:---:|
-| i-NEW GEN Award 2025 (National) | FABLAB Walking Robot Challenge | VoltX Challenge 2025 |
+| i-NEW GEN Award 2025 (National) | FABLAB Walking Robot Challenge | Innovedex Robotics Competition 2024 |
 | Arduino IoT "Innovate for Water Security" | Arduino Explore IoT Hackathon 2024 | Innovedex Robotics Competition 2024 |
+| | VoltX Challenge 2025 | |
 | | | |
 
 </div>
