@@ -32,7 +32,8 @@ class Thanawat_Sukamporn:
         self.faculty     = "Computer Engineering"
 
          # Important
-        self.SuperAIEngineer_Status    = "Super Ai Engineer SS5 : Track Innovator @Kasetsart University"
+        self.SuperAIEngineerSS5_Status    = "Super Ai Engineer SS5 : Track Innovator @Kasetsart University"
+        self.SuperAIEngineerSS6_Status    = "Super Ai Engineer SS6 : The Scamper House"
         self.location    = "Pathum Thani, Thailand 🇹🇭"
         self.languages   = ["th_TH 🇹🇭", "en_US 🇬🇧"]
 
